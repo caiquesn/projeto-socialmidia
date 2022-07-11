@@ -28,6 +28,7 @@ main {
     transform: translate(-50%, -50%);
     height: 627px;
     width: 311px;
+    margin-left: -10px;
     background-image: url(imagens/frame-iphone.png);
     background-repeat: no-repeat;
 
